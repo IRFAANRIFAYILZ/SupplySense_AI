@@ -1,0 +1,67 @@
+[
+  {
+    "question": "What is the penalty for late delivery?",
+    "expected_doc": "Supplier Contract",
+    "answerable": true
+  },
+  {
+    "question": "What happens if a supplier repeatedly misses the delivery deadline?",
+    "expected_doc": "Supplier Contract",
+    "answerable": true
+  },
+  {
+    "question": "What is the minimum inventory level a product should have?",
+    "expected_doc": "Inventory Policy",
+    "answerable": true
+  },
+  {
+    "question": "How often are suppliers formally evaluated?",
+    "expected_doc": "Supplier Evaluation Guidelines",
+    "answerable": true
+  },
+  {
+    "question": "What approval is required for a purchase order over $100,000?",
+    "expected_doc": "Procurement Policy",
+    "answerable": true
+  },
+  {
+    "question": "What counts as a severe delivery delay?",
+    "expected_doc": "Delivery Policy",
+    "answerable": true
+  },
+  {
+    "question": "What are the required fields on a purchase order?",
+    "expected_doc": "Purchase Order Guidelines",
+    "answerable": true
+  },
+  {
+    "question": "How is a supplier classified as high risk?",
+    "expected_doc": "Supplier Evaluation Guidelines",
+    "answerable": true
+  },
+  {
+    "question": "What is the safety stock requirement for electronics?",
+    "expected_doc": "Inventory Policy",
+    "answerable": true
+  },
+  {
+    "question": "Can a purchase order be cancelled after fulfillment has started?",
+    "expected_doc": "Purchase Order Guidelines",
+    "answerable": true
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "expected_doc": null,
+    "answerable": false
+  },
+  {
+    "question": "Who won the most recent FIFA World Cup?",
+    "expected_doc": null,
+    "answerable": false
+  },
+  {
+    "question": "What is a good recipe for banana bread?",
+    "expected_doc": null,
+    "answerable": false
+  }
+]

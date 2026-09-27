@@ -1,0 +1,18 @@
+[
+  "on_time_rate",
+  "average_delivery_days",
+  "quality_score",
+  "risk_score",
+  "quantity",
+  "order_month",
+  "category_Chemicals",
+  "category_Electronics",
+  "category_Machinery Parts",
+  "category_Office Supplies",
+  "category_Packaging",
+  "category_Raw Materials",
+  "category_Textiles",
+  "priority_High",
+  "priority_Standard",
+  "priority_Urgent"
+]

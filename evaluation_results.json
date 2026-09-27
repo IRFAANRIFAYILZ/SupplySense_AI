@@ -1,0 +1,98 @@
+{
+  "retrieval_recall_at_k": 1.0,
+  "top_k": 3,
+  "configs": {
+    "A_base_llm": "NOT RUN (see console output / README)",
+    "B_rag": {
+      "groundedness": 0.745,
+      "answer_relevance": 0.307,
+      "correct_refusal_rate": 1.0,
+      "generation_backend": "extractive (no API key set)"
+    },
+    "C_qlora": "NOT RUN (requires trained adapter + GPU inference; see README)",
+    "D_rag_qlora": "NOT RUN (requires trained adapter + GPU inference; see README)"
+  },
+  "per_question_retrieval": [
+    {
+      "question": "What is the penalty for late delivery?",
+      "expected_doc": "Supplier Contract",
+      "retrieved_docs": [
+        "Delivery Policy",
+        "Supplier Contract"
+      ],
+      "hit": true
+    },
+    {
+      "question": "What happens if a supplier repeatedly misses the delivery deadline?",
+      "expected_doc": "Supplier Contract",
+      "retrieved_docs": [
+        "Supplier Contract"
+      ],
+      "hit": true
+    },
+    {
+      "question": "What is the minimum inventory level a product should have?",
+      "expected_doc": "Inventory Policy",
+      "retrieved_docs": [
+        "Inventory Policy"
+      ],
+      "hit": true
+    },
+    {
+      "question": "How often are suppliers formally evaluated?",
+      "expected_doc": "Supplier Evaluation Guidelines",
+      "retrieved_docs": [
+        "Supplier Evaluation Guidelines"
+      ],
+      "hit": true
+    },
+    {
+      "question": "What approval is required for a purchase order over $100,000?",
+      "expected_doc": "Procurement Policy",
+      "retrieved_docs": [
+        "Procurement Policy"
+      ],
+      "hit": true
+    },
+    {
+      "question": "What counts as a severe delivery delay?",
+      "expected_doc": "Delivery Policy",
+      "retrieved_docs": [
+        "Delivery Policy"
+      ],
+      "hit": true
+    },
+    {
+      "question": "What are the required fields on a purchase order?",
+      "expected_doc": "Purchase Order Guidelines",
+      "retrieved_docs": [
+        "Purchase Order Guidelines"
+      ],
+      "hit": true
+    },
+    {
+      "question": "How is a supplier classified as high risk?",
+      "expected_doc": "Supplier Evaluation Guidelines",
+      "retrieved_docs": [
+        "Supplier Evaluation Guidelines"
+      ],
+      "hit": true
+    },
+    {
+      "question": "What is the safety stock requirement for electronics?",
+      "expected_doc": "Inventory Policy",
+      "retrieved_docs": [
+        "Inventory Policy"
+      ],
+      "hit": true
+    },
+    {
+      "question": "Can a purchase order be cancelled after fulfillment has started?",
+      "expected_doc": "Purchase Order Guidelines",
+      "retrieved_docs": [
+        "Purchase Order Guidelines"
+      ],
+      "hit": true
+    }
+  ]
+}

@@ -1,0 +1,908 @@
+{
+  "delivery_delay_anomalies": [
+    {
+      "supplier_id": "SUP0025",
+      "supplier_name": "Crest Logistics",
+      "month": "2025-05",
+      "normal_avg_delay_days": 0.1,
+      "anomalous_avg_delay_days": 3.6,
+      "z_score": 6.96,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0012",
+      "supplier_name": "Vertex Ltd.",
+      "month": "2025-02",
+      "normal_avg_delay_days": 0.5,
+      "anomalous_avg_delay_days": 4.5,
+      "z_score": 5.66,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0023",
+      "supplier_name": "Pioneer Parts",
+      "month": "2026-05",
+      "normal_avg_delay_days": 0.2,
+      "anomalous_avg_delay_days": 2.3,
+      "z_score": 4.36,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0044",
+      "supplier_name": "Apex Logistics",
+      "month": "2025-07",
+      "normal_avg_delay_days": 0.4,
+      "anomalous_avg_delay_days": 2.7,
+      "z_score": 4.24,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0011",
+      "supplier_name": "Meridian Components",
+      "month": "2026-05",
+      "normal_avg_delay_days": 0.5,
+      "anomalous_avg_delay_days": 2.8,
+      "z_score": 4.19,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0043",
+      "supplier_name": "Crest Trading",
+      "month": "2024-11",
+      "normal_avg_delay_days": 0.0,
+      "anomalous_avg_delay_days": 2.0,
+      "z_score": 3.97,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0004",
+      "supplier_name": "Atlas Ltd.",
+      "month": "2025-04",
+      "normal_avg_delay_days": 0.8,
+      "anomalous_avg_delay_days": 3.5,
+      "z_score": 3.92,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0016",
+      "supplier_name": "Horizon Materials",
+      "month": "2026-03",
+      "normal_avg_delay_days": 0.1,
+      "anomalous_avg_delay_days": 2.0,
+      "z_score": 3.75,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0019",
+      "supplier_name": "Crest Ltd.",
+      "month": "2026-02",
+      "normal_avg_delay_days": 0.5,
+      "anomalous_avg_delay_days": 2.7,
+      "z_score": 3.73,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0022",
+      "supplier_name": "Global Logistics",
+      "month": "2025-12",
+      "normal_avg_delay_days": 0.2,
+      "anomalous_avg_delay_days": 2.0,
+      "z_score": 3.65,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0024",
+      "supplier_name": "Meridian Manufacturing",
+      "month": "2025-11",
+      "normal_avg_delay_days": 0.4,
+      "anomalous_avg_delay_days": 3.0,
+      "z_score": 3.64,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0052",
+      "supplier_name": "Nova Group",
+      "month": "2024-12",
+      "normal_avg_delay_days": 0.4,
+      "anomalous_avg_delay_days": 3.0,
+      "z_score": 3.53,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0007",
+      "supplier_name": "Crest Manufacturing",
+      "month": "2024-12",
+      "normal_avg_delay_days": 1.5,
+      "anomalous_avg_delay_days": 5.3,
+      "z_score": 3.47,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0031",
+      "supplier_name": "Apex Manufacturing",
+      "month": "2025-08",
+      "normal_avg_delay_days": 0.6,
+      "anomalous_avg_delay_days": 3.3,
+      "z_score": 3.39,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0040",
+      "supplier_name": "Delta Logistics",
+      "month": "2025-07",
+      "normal_avg_delay_days": 0.3,
+      "anomalous_avg_delay_days": 2.0,
+      "z_score": 3.36,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0049",
+      "supplier_name": "Crest Group",
+      "month": "2026-01",
+      "normal_avg_delay_days": 0.6,
+      "anomalous_avg_delay_days": 3.3,
+      "z_score": 3.32,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0027",
+      "supplier_name": "Global Logistics",
+      "month": "2024-11",
+      "normal_avg_delay_days": 0.5,
+      "anomalous_avg_delay_days": 2.3,
+      "z_score": 3.01,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0030",
+      "supplier_name": "Cascade Parts",
+      "month": "2025-05",
+      "normal_avg_delay_days": 0.4,
+      "anomalous_avg_delay_days": 2.3,
+      "z_score": 2.97,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0014",
+      "supplier_name": "Global Logistics",
+      "month": "2026-08",
+      "normal_avg_delay_days": 0.3,
+      "anomalous_avg_delay_days": 2.0,
+      "z_score": 2.8,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0037",
+      "supplier_name": "Atlas Trading",
+      "month": "2026-08",
+      "normal_avg_delay_days": 0.6,
+      "anomalous_avg_delay_days": 2.6,
+      "z_score": 2.75,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0002",
+      "supplier_name": "Union Components",
+      "month": "2026-08",
+      "normal_avg_delay_days": 1.4,
+      "anomalous_avg_delay_days": 3.6,
+      "z_score": 2.56,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0005",
+      "supplier_name": "Apex Ltd.",
+      "month": "2025-02",
+      "normal_avg_delay_days": 1.3,
+      "anomalous_avg_delay_days": 4.2,
+      "z_score": 2.49,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0021",
+      "supplier_name": "Pioneer Supply Co.",
+      "month": "2024-11",
+      "normal_avg_delay_days": 0.5,
+      "anomalous_avg_delay_days": 2.0,
+      "z_score": 2.47,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0021",
+      "supplier_name": "Pioneer Supply Co.",
+      "month": "2026-02",
+      "normal_avg_delay_days": 0.5,
+      "anomalous_avg_delay_days": 2.0,
+      "z_score": 2.47,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0003",
+      "supplier_name": "Sterling Components",
+      "month": "2025-03",
+      "normal_avg_delay_days": 1.2,
+      "anomalous_avg_delay_days": 3.8,
+      "z_score": 2.41,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0056",
+      "supplier_name": "Pioneer Components",
+      "month": "2025-05",
+      "normal_avg_delay_days": 0.7,
+      "anomalous_avg_delay_days": 2.3,
+      "z_score": 2.41,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0007",
+      "supplier_name": "Crest Manufacturing",
+      "month": "2024-11",
+      "normal_avg_delay_days": 1.6,
+      "anomalous_avg_delay_days": 4.5,
+      "z_score": 2.33,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0026",
+      "supplier_name": "Apex Components",
+      "month": "2025-05",
+      "normal_avg_delay_days": 0.5,
+      "anomalous_avg_delay_days": 2.0,
+      "z_score": 2.27,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0006",
+      "supplier_name": "Nova Trading",
+      "month": "2024-11",
+      "normal_avg_delay_days": 1.7,
+      "anomalous_avg_delay_days": 3.7,
+      "z_score": 2.21,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0052",
+      "supplier_name": "Nova Group",
+      "month": "2024-10",
+      "normal_avg_delay_days": 0.4,
+      "anomalous_avg_delay_days": 2.3,
+      "z_score": 2.06,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0037",
+      "supplier_name": "Atlas Trading",
+      "month": "2025-12",
+      "normal_avg_delay_days": 0.6,
+      "anomalous_avg_delay_days": 2.2,
+      "z_score": 2.01,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0008",
+      "supplier_name": "Pacific Manufacturing",
+      "month": "2026-01",
+      "normal_avg_delay_days": 1.1,
+      "anomalous_avg_delay_days": 3.0,
+      "z_score": 2.0,
+      "type": "Delivery Delay Spike"
+    },
+    {
+      "supplier_id": "SUP0008",
+      "supplier_name": "Pacific Manufacturing",
+      "month": "2026-08",
+      "normal_avg_delay_days": 1.1,
+      "anomalous_avg_delay_days": 3.0,
+      "z_score": 2.0,
+      "type": "Delivery Delay Spike"
+    }
+  ],
+  "order_quantity_anomalies": [],
+  "isolation_forest_anomalies": [
+    {
+      "supplier_id": "SUP0002",
+      "supplier_name": "Union Components",
+      "month": "2026-08",
+      "avg_delay": 3.6,
+      "isolation_forest_score": -0.145,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0003",
+      "supplier_name": "Sterling Components",
+      "month": "2026-04",
+      "avg_delay": 2.6,
+      "isolation_forest_score": -0.13,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0008",
+      "supplier_name": "Pacific Manufacturing",
+      "month": "2026-01",
+      "avg_delay": 3.0,
+      "isolation_forest_score": -0.125,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0007",
+      "supplier_name": "Crest Manufacturing",
+      "month": "2024-11",
+      "avg_delay": 4.5,
+      "isolation_forest_score": -0.122,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0023",
+      "supplier_name": "Pioneer Parts",
+      "month": "2026-06",
+      "avg_delay": 13.0,
+      "isolation_forest_score": -0.116,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0007",
+      "supplier_name": "Crest Manufacturing",
+      "month": "2026-06",
+      "avg_delay": 10.0,
+      "isolation_forest_score": -0.113,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0025",
+      "supplier_name": "Crest Logistics",
+      "month": "2025-05",
+      "avg_delay": 3.6,
+      "isolation_forest_score": -0.108,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0007",
+      "supplier_name": "Crest Manufacturing",
+      "month": "2026-09",
+      "avg_delay": 2.3,
+      "isolation_forest_score": -0.106,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0007",
+      "supplier_name": "Crest Manufacturing",
+      "month": "2025-06",
+      "avg_delay": 2.6,
+      "isolation_forest_score": -0.102,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0007",
+      "supplier_name": "Crest Manufacturing",
+      "month": "2024-12",
+      "avg_delay": 5.3,
+      "isolation_forest_score": -0.096,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0014",
+      "supplier_name": "Global Logistics",
+      "month": "2026-01",
+      "avg_delay": 7.0,
+      "isolation_forest_score": -0.09,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0047",
+      "supplier_name": "Orbit Parts",
+      "month": "2026-05",
+      "avg_delay": 7.0,
+      "isolation_forest_score": -0.09,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0024",
+      "supplier_name": "Meridian Manufacturing",
+      "month": "2026-06",
+      "avg_delay": 7.0,
+      "isolation_forest_score": -0.09,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0034",
+      "supplier_name": "Beacon Group",
+      "month": "2025-12",
+      "avg_delay": 7.0,
+      "isolation_forest_score": -0.09,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0056",
+      "supplier_name": "Pioneer Components",
+      "month": "2024-11",
+      "avg_delay": 7.0,
+      "isolation_forest_score": -0.09,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0012",
+      "supplier_name": "Vertex Ltd.",
+      "month": "2025-02",
+      "avg_delay": 4.5,
+      "isolation_forest_score": -0.08,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0005",
+      "supplier_name": "Apex Ltd.",
+      "month": "2025-02",
+      "avg_delay": 4.2,
+      "isolation_forest_score": -0.074,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0006",
+      "supplier_name": "Nova Trading",
+      "month": "2026-08",
+      "avg_delay": 6.0,
+      "isolation_forest_score": -0.068,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0001",
+      "supplier_name": "Cascade Logistics",
+      "month": "2024-12",
+      "avg_delay": 6.0,
+      "isolation_forest_score": -0.068,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0003",
+      "supplier_name": "Sterling Components",
+      "month": "2025-03",
+      "avg_delay": 3.8,
+      "isolation_forest_score": -0.068,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0039",
+      "supplier_name": "Cascade Trading",
+      "month": "2025-07",
+      "avg_delay": 0.9,
+      "isolation_forest_score": -0.065,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0020",
+      "supplier_name": "Meridian Group",
+      "month": "2025-07",
+      "avg_delay": 1.7,
+      "isolation_forest_score": -0.063,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0006",
+      "supplier_name": "Nova Trading",
+      "month": "2024-11",
+      "avg_delay": 3.7,
+      "isolation_forest_score": -0.057,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0009",
+      "supplier_name": "Nova Group",
+      "month": "2025-06",
+      "avg_delay": 1.4,
+      "isolation_forest_score": -0.057,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0017",
+      "supplier_name": "Vantage Components",
+      "month": "2026-02",
+      "avg_delay": 6.0,
+      "isolation_forest_score": -0.055,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0029",
+      "supplier_name": "Union Industries",
+      "month": "2026-08",
+      "avg_delay": 6.0,
+      "isolation_forest_score": -0.055,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0018",
+      "supplier_name": "Atlas Group",
+      "month": "2025-08",
+      "avg_delay": 6.0,
+      "isolation_forest_score": -0.055,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0056",
+      "supplier_name": "Pioneer Components",
+      "month": "2024-12",
+      "avg_delay": 6.0,
+      "isolation_forest_score": -0.055,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0004",
+      "supplier_name": "Atlas Ltd.",
+      "month": "2025-04",
+      "avg_delay": 3.5,
+      "isolation_forest_score": -0.054,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0030",
+      "supplier_name": "Cascade Parts",
+      "month": "2026-01",
+      "avg_delay": 5.5,
+      "isolation_forest_score": -0.052,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0001",
+      "supplier_name": "Cascade Logistics",
+      "month": "2025-12",
+      "avg_delay": 5.5,
+      "isolation_forest_score": -0.052,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0042",
+      "supplier_name": "Vantage Industries",
+      "month": "2024-10",
+      "avg_delay": 0.0,
+      "isolation_forest_score": -0.048,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0013",
+      "supplier_name": "Vantage Parts",
+      "month": "2026-02",
+      "avg_delay": 0.0,
+      "isolation_forest_score": -0.048,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0029",
+      "supplier_name": "Union Industries",
+      "month": "2026-07",
+      "avg_delay": 2.3,
+      "isolation_forest_score": -0.041,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0028",
+      "supplier_name": "Beacon Parts",
+      "month": "2025-08",
+      "avg_delay": 0.3,
+      "isolation_forest_score": -0.039,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0008",
+      "supplier_name": "Pacific Manufacturing",
+      "month": "2025-12",
+      "avg_delay": 1.4,
+      "isolation_forest_score": -0.039,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0019",
+      "supplier_name": "Crest Ltd.",
+      "month": "2025-12",
+      "avg_delay": 1.2,
+      "isolation_forest_score": -0.035,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0006",
+      "supplier_name": "Nova Trading",
+      "month": "2025-01",
+      "avg_delay": 2.8,
+      "isolation_forest_score": -0.034,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0001",
+      "supplier_name": "Cascade Logistics",
+      "month": "2025-07",
+      "avg_delay": 1.8,
+      "isolation_forest_score": -0.034,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0003",
+      "supplier_name": "Sterling Components",
+      "month": "2026-01",
+      "avg_delay": 2.7,
+      "isolation_forest_score": -0.034,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0006",
+      "supplier_name": "Nova Trading",
+      "month": "2025-07",
+      "avg_delay": 1.5,
+      "isolation_forest_score": -0.032,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0047",
+      "supplier_name": "Orbit Parts",
+      "month": "2026-01",
+      "avg_delay": 0.8,
+      "isolation_forest_score": -0.029,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0005",
+      "supplier_name": "Apex Ltd.",
+      "month": "2025-01",
+      "avg_delay": 5.0,
+      "isolation_forest_score": -0.028,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0021",
+      "supplier_name": "Pioneer Supply Co.",
+      "month": "2025-03",
+      "avg_delay": 0.2,
+      "isolation_forest_score": -0.028,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0053",
+      "supplier_name": "Delta Group",
+      "month": "2026-02",
+      "avg_delay": 5.0,
+      "isolation_forest_score": -0.022,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0018",
+      "supplier_name": "Atlas Group",
+      "month": "2025-10",
+      "avg_delay": 5.0,
+      "isolation_forest_score": -0.022,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0016",
+      "supplier_name": "Horizon Materials",
+      "month": "2025-08",
+      "avg_delay": 5.0,
+      "isolation_forest_score": -0.022,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0018",
+      "supplier_name": "Atlas Group",
+      "month": "2025-07",
+      "avg_delay": 5.0,
+      "isolation_forest_score": -0.022,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0048",
+      "supplier_name": "Nova Supply Co.",
+      "month": "2025-11",
+      "avg_delay": 5.0,
+      "isolation_forest_score": -0.022,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0041",
+      "supplier_name": "Sterling Components",
+      "month": "2025-11",
+      "avg_delay": 5.0,
+      "isolation_forest_score": -0.022,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0006",
+      "supplier_name": "Nova Trading",
+      "month": "2024-10",
+      "avg_delay": 2.5,
+      "isolation_forest_score": -0.021,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0001",
+      "supplier_name": "Cascade Logistics",
+      "month": "2024-11",
+      "avg_delay": 2.0,
+      "isolation_forest_score": -0.018,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0029",
+      "supplier_name": "Union Industries",
+      "month": "2025-05",
+      "avg_delay": 2.0,
+      "isolation_forest_score": -0.018,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0006",
+      "supplier_name": "Nova Trading",
+      "month": "2025-02",
+      "avg_delay": 2.0,
+      "isolation_forest_score": -0.018,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0008",
+      "supplier_name": "Pacific Manufacturing",
+      "month": "2025-03",
+      "avg_delay": 4.5,
+      "isolation_forest_score": -0.018,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0008",
+      "supplier_name": "Pacific Manufacturing",
+      "month": "2025-11",
+      "avg_delay": 2.2,
+      "isolation_forest_score": -0.015,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0005",
+      "supplier_name": "Apex Ltd.",
+      "month": "2025-12",
+      "avg_delay": 2.2,
+      "isolation_forest_score": -0.015,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0003",
+      "supplier_name": "Sterling Components",
+      "month": "2026-03",
+      "avg_delay": 1.2,
+      "isolation_forest_score": -0.012,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0007",
+      "supplier_name": "Crest Manufacturing",
+      "month": "2025-11",
+      "avg_delay": 1.0,
+      "isolation_forest_score": -0.011,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0006",
+      "supplier_name": "Nova Trading",
+      "month": "2026-07",
+      "avg_delay": 2.0,
+      "isolation_forest_score": -0.011,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0057",
+      "supplier_name": "Ironclad Supply Co.",
+      "month": "2026-05",
+      "avg_delay": 0.6,
+      "isolation_forest_score": -0.009,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0003",
+      "supplier_name": "Sterling Components",
+      "month": "2025-08",
+      "avg_delay": 0.9,
+      "isolation_forest_score": -0.003,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0008",
+      "supplier_name": "Pacific Manufacturing",
+      "month": "2024-10",
+      "avg_delay": 4.0,
+      "isolation_forest_score": -0.0,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0006",
+      "supplier_name": "Nova Trading",
+      "month": "2026-03",
+      "avg_delay": 4.0,
+      "isolation_forest_score": -0.0,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0049",
+      "supplier_name": "Crest Group",
+      "month": "2025-06",
+      "avg_delay": 4.0,
+      "isolation_forest_score": -0.0,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0006",
+      "supplier_name": "Nova Trading",
+      "month": "2026-01",
+      "avg_delay": 4.0,
+      "isolation_forest_score": -0.0,
+      "type": "Isolation Forest Flag (delay pattern)"
+    },
+    {
+      "supplier_id": "SUP0060",
+      "supplier_name": "Horizon Group",
+      "month": "2025-11",
+      "avg_delay": 4.0,
+      "isolation_forest_score": -0.0,
+      "type": "Isolation Forest Flag (delay pattern)"
+    }
+  ],
+  "low_stock_products": [
+    {
+      "product_id": "PRD0001",
+      "product_name": "TEXT-001",
+      "current_stock": 61,
+      "reorder_level": 135
+    },
+    {
+      "product_id": "PRD0003",
+      "product_name": "CHEM-003",
+      "current_stock": 114,
+      "reorder_level": 332
+    },
+    {
+      "product_id": "PRD0005",
+      "product_name": "RAW -005",
+      "current_stock": 451,
+      "reorder_level": 878
+    },
+    {
+      "product_id": "PRD0007",
+      "product_name": "PACK-007",
+      "current_stock": 70,
+      "reorder_level": 193
+    },
+    {
+      "product_id": "PRD0014",
+      "product_name": "ELEC-014",
+      "current_stock": 167,
+      "reorder_level": 197
+    },
+    {
+      "product_id": "PRD0015",
+      "product_name": "PACK-015",
+      "current_stock": 101,
+      "reorder_level": 258
+    },
+    {
+      "product_id": "PRD0020",
+      "product_name": "TEXT-020",
+      "current_stock": 139,
+      "reorder_level": 187
+    },
+    {
+      "product_id": "PRD0023",
+      "product_name": "RAW -023",
+      "current_stock": 9,
+      "reorder_level": 35
+    },
+    {
+      "product_id": "PRD0026",
+      "product_name": "OFFI-026",
+      "current_stock": 214,
+      "reorder_level": 447
+    },
+    {
+      "product_id": "PRD0041",
+      "product_name": "ELEC-041",
+      "current_stock": 12,
+      "reorder_level": 53
+    },
+    {
+      "product_id": "PRD0043",
+      "product_name": "CHEM-043",
+      "current_stock": 58,
+      "reorder_level": 85
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+supplier_id,supplier_name,category,location,quality_score,average_delivery_days,on_time_rate,cost_index,active,risk_score,risk_level,total_orders,delayed_orders
+SUP0001,Cascade Logistics,Chemicals,"Monterrey, MX",60.4,13.3,0.576,80.5,True,52.1,MEDIUM,66,28
+SUP0002,Union Components,Machinery Parts,"Ho Chi Minh City, VN",76.5,10.1,0.614,116.9,True,34.7,MEDIUM,57,22
+SUP0003,Sterling Components,Office Supplies,"Busan, KR",70.6,10.0,0.62,118.3,True,38.0,MEDIUM,79,30
+SUP0004,Atlas Ltd.,Packaging,"Hamburg, DE",79.4,12.4,0.733,132.1,True,35.0,MEDIUM,75,20
+SUP0005,Apex Ltd.,Machinery Parts,"Shenzhen, CN",69.4,13.3,0.633,109.8,True,44.1,MEDIUM,60,22
+SUP0006,Nova Trading,Textiles,"Shenzhen, CN",76.9,13.7,0.457,103.3,True,48.4,MEDIUM,70,38
+SUP0007,Crest Manufacturing,Machinery Parts,"Chennai, IN",73.4,12.6,0.512,92.9,True,45.6,MEDIUM,82,40
+SUP0008,Pacific Manufacturing,Electronics,"Bangalore, IN",73.3,10.0,0.658,102.4,True,33.4,MEDIUM,73,25
+SUP0009,Nova Group,Electronics,"Rotterdam, NL",82.3,6.4,0.833,83.0,True,12.2,LOW,72,12
+SUP0010,Horizon Group,Packaging,"Shenzhen, CN",93.8,7.0,0.919,95.4,False,8.0,LOW,62,5
+SUP0011,Meridian Components,Textiles,"Detroit, US",90.1,5.1,0.809,107.2,True,8.8,LOW,68,13
+SUP0012,Vertex Ltd.,Packaging,"Jakarta, ID",81.3,5.3,0.859,80.2,True,9.2,LOW,64,9
+SUP0013,Vantage Parts,Electronics,"Detroit, US",84.4,4.6,0.985,96.9,True,1.0,LOW,67,1
+SUP0014,Global Logistics,Machinery Parts,"Monterrey, MX",86.4,3.0,0.917,78.3,True,3.7,LOW,60,5
+SUP0015,Sterling Industries,Machinery Parts,"Shenzhen, CN",91.1,5.6,0.938,103.3,True,4.1,LOW,64,4
+SUP0016,Horizon Materials,Textiles,"Bangalore, IN",84.4,7.8,0.86,94.2,False,12.8,LOW,50,7
+SUP0017,Vantage Components,Office Supplies,"Shenzhen, CN",100.0,3.9,0.873,143.7,True,10.8,LOW,63,8
+SUP0018,Atlas Group,Electronics,"Rotterdam, NL",86.3,6.2,0.845,97.9,True,9.6,LOW,58,9
+SUP0019,Crest Ltd.,Chemicals,"Hamburg, DE",91.7,4.1,0.85,126.5,True,9.2,LOW,80,12
+SUP0020,Meridian Group,Office Supplies,"Hamburg, DE",100.0,4.3,0.853,87.7,True,6.6,LOW,75,11
+SUP0021,Pioneer Supply Co.,Machinery Parts,"Jakarta, ID",92.7,7.1,0.871,93.2,True,10.4,LOW,70,9
+SUP0022,Global Logistics,Packaging,"Busan, KR",91.7,7.9,0.937,119.6,True,10.7,LOW,63,4
+SUP0023,Pioneer Parts,Chemicals,"Rotterdam, NL",81.8,6.9,0.939,124.8,True,11.1,LOW,66,4
+SUP0024,Meridian Manufacturing,Machinery Parts,"Shenzhen, CN",93.9,8.2,0.873,94.1,False,12.8,LOW,63,8
+SUP0025,Crest Logistics,Textiles,"Detroit, US",89.7,8.0,0.897,87.4,True,11.2,LOW,68,7
+SUP0026,Apex Components,Machinery Parts,"Busan, KR",87.1,7.0,0.844,95.1,True,11.4,LOW,64,10
+SUP0027,Global Logistics,Electronics,"Monterrey, MX",91.1,6.1,0.848,83.7,True,9.3,LOW,79,12
+SUP0028,Beacon Parts,Textiles,"Shenzhen, CN",81.2,9.0,0.853,91.1,True,17.7,LOW,68,10
+SUP0029,Union Industries,Textiles,"Jakarta, ID",86.8,5.5,0.747,86.8,True,12.5,LOW,79,20
+SUP0030,Cascade Parts,Machinery Parts,"Bangalore, IN",100.0,9.4,0.797,143.6,True,23.9,LOW,59,12
+SUP0031,Apex Manufacturing,Raw Materials,"Detroit, US",92.6,9.3,0.844,94.4,False,16.5,LOW,64,10
+SUP0032,Beacon Materials,Chemicals,"Hamburg, DE",92.8,6.2,0.845,115.2,True,10.4,LOW,58,9
+SUP0033,Global Trading,Machinery Parts,"Jakarta, ID",100.0,6.0,0.883,131.4,False,10.7,LOW,60,7
+SUP0034,Beacon Group,Chemicals,"Jakarta, ID",92.9,3.9,0.941,73.8,True,2.7,LOW,68,4
+SUP0035,Sterling Materials,Machinery Parts,"Jakarta, ID",89.4,4.8,0.917,96.2,True,3.7,LOW,60,5
+SUP0036,Summit Components,Textiles,"Ho Chi Minh City, VN",87.8,5.7,0.938,73.6,True,4.3,LOW,64,4
+SUP0037,Atlas Trading,Office Supplies,"Rotterdam, NL",88.0,7.3,0.841,119.5,True,13.6,LOW,69,11
+SUP0038,Vantage Trading,Electronics,"Ho Chi Minh City, VN",95.0,6.6,1.0,95.6,True,3.5,LOW,62,0
+SUP0039,Cascade Trading,Chemicals,"Bangalore, IN",97.0,3.8,0.893,111.3,True,5.0,LOW,56,6
+SUP0040,Delta Logistics,Office Supplies,"Jakarta, ID",99.1,6.1,0.886,109.6,True,7.5,LOW,70,8
+SUP0041,Sterling Components,Machinery Parts,"Busan, KR",96.9,3.9,0.864,109.1,True,6.1,LOW,59,8
+SUP0042,Vantage Industries,Chemicals,"Chennai, IN",86.5,6.7,0.983,108.9,True,4.5,LOW,60,1
+SUP0043,Crest Trading,Raw Materials,"Monterrey, MX",91.4,6.7,0.935,103.5,True,6.7,LOW,62,4
+SUP0044,Apex Logistics,Raw Materials,"Bangalore, IN",83.6,6.1,0.889,98.1,True,8.3,LOW,72,8
+SUP0045,Atlas Components,Electronics,"Ho Chi Minh City, VN",95.1,5.7,0.941,112.6,True,4.6,LOW,68,4
+SUP0046,Ironclad Group,Machinery Parts,"Ho Chi Minh City, VN",90.6,2.7,0.986,119.6,True,2.1,LOW,70,1
+SUP0047,Orbit Parts,Office Supplies,"Busan, KR",81.5,4.7,0.972,65.3,True,3.4,LOW,72,2
+SUP0048,Nova Supply Co.,Machinery Parts,"Shenzhen, CN",91.4,6.8,0.93,108.0,True,7.1,LOW,71,5
+SUP0049,Crest Group,Textiles,"Jakarta, ID",89.3,7.4,0.844,112.4,True,12.7,LOW,64,10
+SUP0050,Beacon Trading,Chemicals,"Rotterdam, NL",88.3,2.1,0.875,103.0,False,5.6,LOW,56,7
+SUP0051,Sterling Parts,Raw Materials,"Chennai, IN",86.4,4.6,0.97,77.8,True,1.4,LOW,67,2
+SUP0052,Nova Group,Machinery Parts,"Monterrey, MX",83.8,9.0,0.919,107.1,True,13.2,LOW,62,5
+SUP0053,Delta Group,Textiles,"Detroit, US",92.6,5.2,0.806,97.2,True,9.2,LOW,72,14
+SUP0054,Summit Industries,Machinery Parts,"Bangalore, IN",88.0,6.0,0.857,116.7,True,9.6,LOW,63,9
+SUP0055,Apex Logistics,Textiles,"Detroit, US",96.5,8.5,1.0,87.3,True,7.7,LOW,57,0
+SUP0056,Pioneer Components,Machinery Parts,"Detroit, US",83.3,5.4,0.817,93.1,True,10.1,LOW,71,13
+SUP0057,Ironclad Supply Co.,Chemicals,"Hamburg, DE",91.1,4.9,0.915,109.3,True,3.8,LOW,71,6
+SUP0058,Apex Ltd.,Chemicals,"Bangalore, IN",98.6,5.5,1.0,101.4,True,1.1,LOW,58,0
+SUP0059,Beacon Group,Chemicals,"Rotterdam, NL",93.7,4.9,0.927,110.0,True,3.3,LOW,55,4
+SUP0060,Horizon Group,Textiles,"Rotterdam, NL",79.0,7.0,0.892,95.0,True,12.9,LOW,65,7

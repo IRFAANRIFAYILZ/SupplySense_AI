@@ -1,0 +1,232 @@
+[
+  {
+    "text": "# Delivery & Logistics Policy\n**SupplySense Manufacturing Group \u2014 Fictional Document for Demonstration Purposes**",
+    "section": "Preamble",
+    "doc": "Delivery Policy"
+  },
+  {
+    "text": "Section 1: Delivery Windows\n1.1 Standard priority orders must arrive within the quoted lead time plus a\n2-day grace period. High priority orders have a 1-day grace period. Urgent\npriority orders have zero grace period \u2014 any delay is recorded immediately.",
+    "section": "Section 1: Delivery Windows",
+    "doc": "Delivery Policy"
+  },
+  {
+    "text": "Section 2: Delay Classification\n2.1 Delays are classified by severity:\n   - Minor Delay: 1\u20133 days past the grace period.\n   - Moderate Delay: 4\u20137 days past the grace period.\n   - Severe Delay: more than 7 days past the grace period.\n\n2.2 A Severe Delay on an Urgent priority order automatically triggers a\nnotification to the Supply Chain Risk team and a note on the supplier's\nprofile.",
+    "section": "Section 2: Delay Classification",
+    "doc": "Delivery Policy"
+  },
+  {
+    "text": "Section 3: Seasonal Adjustments\n3.1 During the November\u2013January peak season, expected delivery windows may\nbe extended by mutual agreement, but the Supplier must confirm any adjusted\ndate in writing at least 5 business days before the original due date.\n\n3.2 Failure to proactively communicate seasonal delays is treated as a\nstandard late delivery under the Late Delivery Penalties in the Master\nSupplier Agreement.",
+    "section": "Section 3: Seasonal Adjustments",
+    "doc": "Delivery Policy"
+  },
+  {
+    "text": "Section 4: Carrier and Routing\n4.1 Suppliers are responsible for selecting a carrier capable of meeting the\nagreed delivery window. Repeated delays attributed to carrier choice do not\nexempt the Supplier from late delivery penalties.",
+    "section": "Section 4: Carrier and Routing",
+    "doc": "Delivery Policy"
+  },
+  {
+    "text": "Section 5: Proof of Delivery\n5.1 Suppliers must provide proof of delivery (tracking confirmation or signed\nreceipt) within 24 hours of delivery for all orders above $5,000 in value.",
+    "section": "Section 5: Proof of Delivery",
+    "doc": "Delivery Policy"
+  },
+  {
+    "text": "# Inventory Management Policy\n**SupplySense Manufacturing Group \u2014 Fictional Document for Demonstration Purposes**",
+    "section": "Preamble",
+    "doc": "Inventory Policy"
+  },
+  {
+    "text": "Section 1: Reorder Point Methodology\n1.1 Every product has a defined Reorder Level, calculated as approximately\n15\u201335% of average monthly demand, adjusted for the supplier's average lead\ntime and demand variability.\n\n1.2 When current stock falls below the Reorder Level, the product is flagged\nas \"Low Stock\" and a replenishment purchase order should be initiated within\n2 business days.",
+    "section": "Section 1: Reorder Point Methodology",
+    "doc": "Inventory Policy"
+  },
+  {
+    "text": "Section 2: Minimum Inventory Levels\n2.1 The Company's minimum acceptable inventory level for any active product is\nthe Reorder Level itself. Stock is not permitted to be allowed to reach zero\nfor products with active monthly demand, except for discontinued items.\n\n2.2 Products flagged Low Stock for more than 10 consecutive business days\nwithout a corresponding purchase order must be escalated to the Inventory\nManager.",
+    "section": "Section 2: Minimum Inventory Levels",
+    "doc": "Inventory Policy"
+  },
+  {
+    "text": "Section 3: Safety Stock for Critical Categories\n3.1 Products in the \"Electronics\" and \"Machinery Parts\" categories, which\nhave longer average lead times, should maintain a safety stock buffer of an\nadditional 10% above the standard Reorder Level.",
+    "section": "Section 3: Safety Stock for Critical Categories",
+    "doc": "Inventory Policy"
+  },
+  {
+    "text": "Section 4: Excess Inventory\n4.1 Inventory exceeding 4x the Reorder Level for more than 60 days is\nclassified as Excess Inventory and reviewed for potential overstock write-down\nor demand forecast correction.",
+    "section": "Section 4: Excess Inventory",
+    "doc": "Inventory Policy"
+  },
+  {
+    "text": "Section 5: Cycle Counting\n5.1 High-value products (unit cost above $200) are cycle-counted monthly.\nAll other products are cycle-counted quarterly.",
+    "section": "Section 5: Cycle Counting",
+    "doc": "Inventory Policy"
+  },
+  {
+    "text": "Section 6: Inventory Valuation\n6.1 Inventory value is calculated as current stock multiplied by unit cost,\nand is reported at the category level in the Executive Dashboard.",
+    "section": "Section 6: Inventory Valuation",
+    "doc": "Inventory Policy"
+  },
+  {
+    "text": "# Procurement Policy\n**SupplySense Manufacturing Group \u2014 Fictional Document for Demonstration Purposes**",
+    "section": "Preamble",
+    "doc": "Procurement Policy"
+  },
+  {
+    "text": "Section 1: Purpose\nThis policy establishes the rules for how the Company sources, evaluates, and\npurchases goods and services from external suppliers.",
+    "section": "Section 1: Purpose",
+    "doc": "Procurement Policy"
+  },
+  {
+    "text": "Section 2: Supplier Onboarding\n2.1 New suppliers must complete a Supplier Registration Form and pass an initial\nrisk assessment before being added to the Approved Supplier List.\n\n2.2 Suppliers handling categories classified as \"Critical\" (Electronics,\nMachinery Parts) require a facility audit before approval.",
+    "section": "Section 2: Supplier Onboarding",
+    "doc": "Procurement Policy"
+  },
+  {
+    "text": "Section 3: Purchase Order Authorization Limits\n3.1 Purchase orders under $10,000 may be approved by a Procurement Analyst.\n\n3.2 Purchase orders between $10,000 and $100,000 require approval from a\nProcurement Manager.\n\n3.3 Purchase orders above $100,000 require approval from the Director of\nProcurement and Finance sign-off.",
+    "section": "Section 3: Purchase Order Authorization Limits",
+    "doc": "Procurement Policy"
+  },
+  {
+    "text": "Section 4: Competitive Bidding\n4.1 Any new sourcing arrangement expected to exceed $50,000 in annual spend must\ngo through a competitive bidding process with at least three quotes.\n\n4.2 Sole-sourcing (using a single supplier without competitive bids) is only\npermitted for proprietary components with no viable alternative supplier, and\nmust be documented with a Sole Source Justification form.",
+    "section": "Section 4: Competitive Bidding",
+    "doc": "Procurement Policy"
+  },
+  {
+    "text": "Section 5: Supplier Diversification\n5.1 To reduce concentration risk, no single supplier should account for more\nthan 40% of total spend within a product category, where alternative suppliers\nexist.\n\n5.2 Categories with fewer than 2 active approved suppliers are flagged as\n\"Single Point of Failure\" categories and prioritized for supplier diversification\nefforts.",
+    "section": "Section 5: Supplier Diversification",
+    "doc": "Procurement Policy"
+  },
+  {
+    "text": "Section 6: Cost Review\n6.1 Supplier pricing (reflected in the cost index) is reviewed semi-annually.\nA cost index more than 20% above the category average requires justification\nor renegotiation.",
+    "section": "Section 6: Cost Review",
+    "doc": "Procurement Policy"
+  },
+  {
+    "text": "Section 7: Emergency Procurement\n7.1 In the event of a supply disruption affecting production, Emergency\nProcurement procedures allow expedited approval (single manager sign-off,\nregardless of order value) for a maximum of 15 days, after which normal\napproval limits resume.",
+    "section": "Section 7: Emergency Procurement",
+    "doc": "Procurement Policy"
+  },
+  {
+    "text": "# Purchase Order Guidelines\n**SupplySense Manufacturing Group \u2014 Fictional Document for Demonstration Purposes**",
+    "section": "Preamble",
+    "doc": "Purchase Order Guidelines"
+  },
+  {
+    "text": "Section 1: Required Fields\n1.1 Every purchase order must include: supplier ID, product ID(s), quantity,\nunit cost, requested delivery date, priority level, and the responsible\nprocurement analyst's name.",
+    "section": "Section 1: Required Fields",
+    "doc": "Purchase Order Guidelines"
+  },
+  {
+    "text": "Section 2: Priority Levels\n2.1 Orders may be marked Standard, High, or Urgent.\n   - Standard: routine replenishment, standard lead time applies.\n   - High: expedited handling requested; supplier should prioritize picking\n     and shipping, 1-day grace period on delivery.\n   - Urgent: production-critical shortage; zero grace period, and the\n     supplier must confirm receipt of the order within 4 business hours.",
+    "section": "Section 2: Priority Levels",
+    "doc": "Purchase Order Guidelines"
+  },
+  {
+    "text": "Section 2: Minimum Order Quantities\n2.2 Orders below a supplier's stated Minimum Order Quantity (MOQ) may be\nconsolidated with other pending orders to the same supplier where possible,\nto avoid MOQ surcharges.",
+    "section": "Section 2: Minimum Order Quantities",
+    "doc": "Purchase Order Guidelines"
+  },
+  {
+    "text": "Section 3: Amendments and Cancellations\n3.1 A purchase order may be amended (quantity or delivery date) up to 48 hours\nafter issuance without penalty, provided the supplier has not yet begun\nfulfillment.\n\n3.2 Cancellations after the supplier has begun fulfillment may incur a\ncancellation fee of up to 15% of order value, subject to negotiation.",
+    "section": "Section 3: Amendments and Cancellations",
+    "doc": "Purchase Order Guidelines"
+  },
+  {
+    "text": "Section 4: Order Matching and Receiving\n4.1 Upon receipt, goods are matched against the purchase order (quantity,\nproduct ID, and quality spec) before being logged into inventory. Discrepancies\nmust be reported within 48 hours of receipt.",
+    "section": "Section 4: Order Matching and Receiving",
+    "doc": "Purchase Order Guidelines"
+  },
+  {
+    "text": "Section 5: Record Retention\n5.1 Purchase orders and associated delivery records must be retained for a\nminimum of 3 years for audit purposes.",
+    "section": "Section 5: Record Retention",
+    "doc": "Purchase Order Guidelines"
+  },
+  {
+    "text": "# Master Supplier Agreement (Template)\n**SupplySense Manufacturing Group \u2014 Fictional Document for Demonstration Purposes**",
+    "section": "Preamble",
+    "doc": "Supplier Contract"
+  },
+  {
+    "text": "Section 1: Scope of Agreement\nThis agreement governs the supply of goods between SupplySense Manufacturing Group\n(\"the Company\") and any registered supplier (\"the Supplier\"). It applies to all\npurchase orders issued under the Company's procurement system.",
+    "section": "Section 1: Scope of Agreement",
+    "doc": "Supplier Contract"
+  },
+  {
+    "text": "Section 2: Delivery Obligations\n2.1 The Supplier shall deliver goods within the lead time specified on each purchase\norder. The standard acceptable delivery window is the quoted lead time plus a\ngrace period of 2 calendar days.\n\n2.2 A delivery is considered \"late\" if goods arrive more than 2 days after the\nagreed delivery date stated on the purchase order.\n\n2.3 The Supplier must notify the Company's procurement team at least 3 business\ndays in advance of any anticipated delay.",
+    "section": "Section 2: Delivery Obligations",
+    "doc": "Supplier Contract"
+  },
+  {
+    "text": "Section 3: Late Delivery Penalties\n3.1 For each late delivery, a penalty of 0.5% of the order value shall be applied\nper day of delay, up to a maximum of 10% of the total order value.\n\n3.2 If a Supplier records more than 15% of orders as delayed within a rolling\n90-day period, the Supplier shall automatically be flagged for a **Performance\nReview** (see Section 4).\n\n3.3 Repeated late delivery \u2014 defined as three or more late deliveries within any\nrolling 60-day window \u2014 may result in suspension o",
+    "section": "Section 3: Late Delivery Penalties",
+    "doc": "Supplier Contract"
+  },
+  {
+    "text": "fined as three or more late deliveries within any\nrolling 60-day window \u2014 may result in suspension of new purchase orders until a\ncorrective action plan is submitted and approved.",
+    "section": "Section 3: Late Delivery Penalties",
+    "doc": "Supplier Contract"
+  },
+  {
+    "text": "Section 4: Performance Review\n4.1 A Performance Review is triggered when a Supplier's on-time delivery rate\nfalls below 85% over a rolling quarter, or when flagged under Section 3.2.\n\n4.2 The review evaluates: on-time delivery rate, quality score, responsiveness\nto communication, and root cause of delays.\n\n4.3 Following a Performance Review, the Company may: (a) continue the\nrelationship with a corrective action plan, (b) reduce order volume allocated\nto the Supplier, or (c) terminate the agreem",
+    "section": "Section 4: Performance Review",
+    "doc": "Supplier Contract"
+  },
+  {
+    "text": "rrective action plan, (b) reduce order volume allocated\nto the Supplier, or (c) terminate the agreement with 30 days' written notice.",
+    "section": "Section 4: Performance Review",
+    "doc": "Supplier Contract"
+  },
+  {
+    "text": "Section 5: Quality Requirements\n5.1 All goods must meet the quality specifications stated in the applicable\nPurchase Order and pass incoming inspection.\n\n5.2 A defect rate above 5% in any shipment gives the Company the right to\nreject the shipment in full and request replacement at the Supplier's cost.",
+    "section": "Section 5: Quality Requirements",
+    "doc": "Supplier Contract"
+  },
+  {
+    "text": "Section 6: Termination\n6.1 Either party may terminate this agreement with 60 days' written notice.\n\n6.2 The Company may terminate immediately, without notice, in cases of fraud,\nrepeated safety violations, or breach of confidentiality obligations.",
+    "section": "Section 6: Termination",
+    "doc": "Supplier Contract"
+  },
+  {
+    "text": "Section 7: Confidentiality\n7.1 Both parties agree to keep pricing, forecasts, and proprietary specifications\nconfidential and not disclose them to third parties without written consent.",
+    "section": "Section 7: Confidentiality",
+    "doc": "Supplier Contract"
+  },
+  {
+    "text": "# Supplier Evaluation Guidelines\n**SupplySense Manufacturing Group \u2014 Fictional Document for Demonstration Purposes**",
+    "section": "Preamble",
+    "doc": "Supplier Evaluation Guidelines"
+  },
+  {
+    "text": "Section 1: Purpose\nThese guidelines define how supplier performance is scored and how frequently\nsuppliers must be evaluated.",
+    "section": "Section 1: Purpose",
+    "doc": "Supplier Evaluation Guidelines"
+  },
+  {
+    "text": "Section 2: Evaluation Frequency\n2.1 All active suppliers are formally evaluated quarterly.\n\n2.2 Suppliers under an active Performance Review (see Master Supplier\nAgreement, Section 4) are evaluated monthly until performance is restored\nabove the review threshold.",
+    "section": "Section 2: Evaluation Frequency",
+    "doc": "Supplier Evaluation Guidelines"
+  },
+  {
+    "text": "Section 3: Scoring Dimensions\n3.1 Supplier evaluation considers four weighted dimensions:\n   - On-Time Delivery Rate \u2014 40% weight\n   - Quality Score \u2014 30% weight\n   - Cost Competitiveness (relative to category average) \u2014 20% weight\n   - Responsiveness / Communication \u2014 10% weight",
+    "section": "Section 3: Scoring Dimensions",
+    "doc": "Supplier Evaluation Guidelines"
+  },
+  {
+    "text": "Section 4: Risk Classification Requirements\n4.1 A supplier is classified as HIGH risk when on-time delivery falls below\n70% AND at least one additional dimension (quality or cost) is also below\nthe acceptable threshold in the same evaluation period.\n\n4.2 A supplier is classified as MEDIUM risk when on-time delivery is between\n70\u201390%, or when a single dimension is significantly underperforming while\nothers remain acceptable.\n\n4.3 A supplier is classified as LOW risk when on-time delivery exceeds",
+    "section": "Section 4: Risk Classification Requirements",
+    "doc": "Supplier Evaluation Guidelines"
+  },
+  {
+    "text": "e\nothers remain acceptable.\n\n4.3 A supplier is classified as LOW risk when on-time delivery exceeds 90%\nand quality score exceeds 85%.",
+    "section": "Section 4: Risk Classification Requirements",
+    "doc": "Supplier Evaluation Guidelines"
+  },
+  {
+    "text": "Section 5: Minimum Requirements to Remain an Approved Supplier\n5.1 Suppliers must maintain a minimum quality score of 70 and an on-time\ndelivery rate of at least 60% to remain on the Approved Supplier List without\na corrective action plan.\n\n5.2 Any supplier falling below these minimums for two consecutive quarters is\nautomatically escalated for contract review and potential removal from the\nApproved Supplier List.",
+    "section": "Section 5: Minimum Requirements to Remain an Approved Supplier",
+    "doc": "Supplier Evaluation Guidelines"
+  },
+  {
+    "text": "Section 6: New Supplier Probation\n6.1 Newly onboarded suppliers are placed on a 90-day probationary evaluation\nperiod with weekly delivery performance tracking instead of quarterly.",
+    "section": "Section 6: New Supplier Probation",
+    "doc": "Supplier Evaluation Guidelines"
+  }
+]

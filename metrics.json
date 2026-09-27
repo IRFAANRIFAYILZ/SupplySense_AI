@@ -1,0 +1,114 @@
+{
+  "metrics": {
+    "accuracy": 0.7405,
+    "precision": 0.2899,
+    "recall": 0.5085,
+    "f1_score": 0.3692,
+    "n_train": 3160,
+    "n_test": 790,
+    "positive_rate_test": 0.1494
+  },
+  "confusion_matrix": [
+    [
+      525,
+      147
+    ],
+    [
+      58,
+      60
+    ]
+  ],
+  "classification_report": {
+    "0": {
+      "precision": 0.9005145797598628,
+      "recall": 0.78125,
+      "f1-score": 0.8366533864541833,
+      "support": 672.0
+    },
+    "1": {
+      "precision": 0.2898550724637681,
+      "recall": 0.5084745762711864,
+      "f1-score": 0.36923076923076925,
+      "support": 118.0
+    },
+    "accuracy": 0.740506329113924,
+    "macro avg": {
+      "precision": 0.5951848261118154,
+      "recall": 0.6448622881355932,
+      "f1-score": 0.6029420778424763,
+      "support": 790.0
+    },
+    "weighted avg": {
+      "precision": 0.8093021470244968,
+      "recall": 0.740506329113924,
+      "f1-score": 0.7668358309701797,
+      "support": 790.0
+    }
+  },
+  "feature_importance": [
+    {
+      "feature": "on_time_rate",
+      "importance": 0.2622
+    },
+    {
+      "feature": "risk_score",
+      "importance": 0.1704
+    },
+    {
+      "feature": "quantity",
+      "importance": 0.1375
+    },
+    {
+      "feature": "average_delivery_days",
+      "importance": 0.1336
+    },
+    {
+      "feature": "quality_score",
+      "importance": 0.1112
+    },
+    {
+      "feature": "order_month",
+      "importance": 0.0808
+    },
+    {
+      "feature": "priority_Standard",
+      "importance": 0.0154
+    },
+    {
+      "feature": "category_Packaging",
+      "importance": 0.0141
+    },
+    {
+      "feature": "category_Textiles",
+      "importance": 0.0118
+    },
+    {
+      "feature": "category_Machinery Parts",
+      "importance": 0.0107
+    },
+    {
+      "feature": "category_Office Supplies",
+      "importance": 0.0102
+    },
+    {
+      "feature": "priority_High",
+      "importance": 0.01
+    },
+    {
+      "feature": "category_Raw Materials",
+      "importance": 0.0097
+    },
+    {
+      "feature": "priority_Urgent",
+      "importance": 0.0085
+    },
+    {
+      "feature": "category_Electronics",
+      "importance": 0.0076
+    },
+    {
+      "feature": "category_Chemicals",
+      "importance": 0.0062
+    }
+  ]
+}
